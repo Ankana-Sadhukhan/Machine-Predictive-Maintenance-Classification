@@ -83,12 +83,6 @@ Improve reliability of automated systems.
 
 # ⚙ Features
 
-## 🔐 Authentication System
-
-* User Login
-* User Signup
-* Local Storage Authentication
-
 ## 🤖 Machine Learning Prediction
 
 * Predicts machine failure in real-time
