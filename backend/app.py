@@ -1,7 +1,13 @@
+# import io
+# from flask import Flask, request, send_file, jsonify
+# from flask_cors import CORS
+# import pdfkit
+
 import io
-from flask import Flask, request, send_file, jsonify
+import os
+from flask import Flask, request, send_file, jsonify, send_from_directory
 from flask_cors import CORS
-import pdfkit
+from fpdf import FPDF  # <--- Make sure this is here instead of pdfkit
 
 app = Flask(__name__)
 CORS(app)
