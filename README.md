@@ -109,6 +109,8 @@ Improve reliability of automated systems.
 * Fast inference system
 
 ---
+# deploy
+* Render
 
 # 🧠 Machine Learning Models Used
 
