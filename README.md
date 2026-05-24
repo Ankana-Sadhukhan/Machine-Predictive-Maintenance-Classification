@@ -8,7 +8,7 @@ The project helps industries reduce unexpected downtime, improve operational eff
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live Demo ->
 
 🚀 Try the Live Application Here:
 
